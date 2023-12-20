@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlanetMat
+  m_Shader: {fileID: -6465566751694194690, guid: 66acb1a80baece64188a390f233a59cd, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 122530860f33d1d44a2c8cc2b6e47bab, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_059b5a51cdc04c1e9330f3b06eb4d32d_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 6e1406781f683b54dae516ec5965c44b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_4036944a860242a6acd46a13e75fe0e3_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 122530860f33d1d44a2c8cc2b6e47bab, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_fa1b8466dff343439c57f66613574594_Texture_1:
+        m_Texture: {fileID: 2800000, guid: af14dce5050a64142b51512266c000a6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats: []
+    m_Colors:
+    - Color_09283debe1424ede882bc4379ae3484a: {r: 1, g: 1, b: 1, a: 0}
+    - Color_599c971ba9ca486c88132448a26a0767: {r: 1, g: 0, b: 0, a: 0}
+    - Vector2_e3dd5b7f1b6449138f133ec4834bfa23: {r: 0.3, g: 0.3, b: 0, a: 0}
+    - Vector3_fbead4bd3e5a4e139560737ea0b77866: {r: 1, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
